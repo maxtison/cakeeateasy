@@ -1,0 +1,72 @@
+body{
+    margin: 0;
+    font-family: "Raleway", sans-serif;
+    color: white;
+    text-align: center;
+}
+
+section{
+    margin: 0;
+    padding: 25px;
+}
+
+
+.landing{
+    height: 85vh;
+    background: linear-gradient(rgba(232, 126, 4, 0.45), rgba(232, 126, 4, 0.45)),url(cake.jpg);
+    background-size: 100% 100%;
+    background-repeat:no-repeat;
+    margin-top: 0;
+}
+
+.title{
+    padding-top:25vh;
+    text-align: center;
+}
+
+h1{
+    font-size: 50px;
+}
+
+button{
+	background-color: #E87E04;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+}
+
+.who{
+    background-color: #E87E04;
+    padding: 50px; 
+    text-align: center;
+}
+
+.feature{
+    padding: 20px;
+    display: inline-block;
+    width: 17.2em;
+    text-align: center;
+}
+
+.what h1{
+    color: #E87E04
+}
+
+.partners{
+    background-color: #f3f3f3;
+
+}
+
+.partners h1{
+    color: #E87E04
+}
+
+.contact{
+    background-color: #E87E04;
+    padding-left: 0px;
+    padding-right: 0px;
+    
+
+}
